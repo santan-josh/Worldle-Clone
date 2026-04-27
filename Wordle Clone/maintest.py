@@ -50,3 +50,6 @@ guesses = load_dictionary("guesses.txt")
 answers = load_dictionary("answers.txt")
 
 wordle(guesses, answers)
+
+
+print("THANK YOU FOR PLAYING")
